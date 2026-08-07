@@ -12,14 +12,14 @@
 
 #main-header {
     background-color: #ff69b4;
-    color: #ffffff;
+    color: #000000;
     text-align: center;
     padding: 25px;
     border-bottom: 5px solid #ffffff;
 }
 
 .navbar {
-    background-color: #000000;
+    background-color: #ffffff;
     padding: 15px;
     text-align: center;
 }
