@@ -32,11 +32,11 @@
 .navbar li {
     display: inline;
     margin: 20px;
-    color: #000000;
+    color: #ffffff;
 }
 
 .card {
-    background-color: #000000;
+    background-color: #ffffff;
     border: 3px solid #ff69b4;
     margin: 25px;
     padding: 20px;
@@ -51,7 +51,7 @@ img {
 
 footer {
     background-color: #ff69b4;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 15px;
 }
@@ -63,7 +63,7 @@ footer {
 }
 
 .card{
-    background:#000000;
+    background:#ffffff;
     border:2px solid pink;
     padding:20px;
     border-radius:10px;
