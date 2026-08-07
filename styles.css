@@ -12,7 +12,7 @@
 
 #main-header {
     background-color: #ff69b4;
-    color: #222;
+    color: #000000;
     text-align: center;
     padding: 25px;
     border-bottom: 5px solid #800080;
@@ -32,11 +32,11 @@
 .navbar li {
     display: inline;
     margin: 20px;
-    color: #222;
+    color: #000000;
 }
 
 .card {
-    background-color: #222;
+    background-color: #000000;
     border: 3px solid #ff69b4;
     margin: 25px;
     padding: 20px;
@@ -51,7 +51,7 @@ img {
 
 footer {
     background-color: #ff69b4;
-    color: #222;
+    color: #000000;
     text-align: center;
     padding: 15px;
 }
@@ -63,7 +63,7 @@ footer {
 }
 
 .card{
-    background:#222;
+    background:#000000;
     border:2px solid pink;
     padding:20px;
     border-radius:10px;
